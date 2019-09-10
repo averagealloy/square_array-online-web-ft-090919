@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-array.each do |sq
+array.each do |squ
 end
 
 

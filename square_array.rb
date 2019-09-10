@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-array.map! {|n}
+array.map! {|nunu}
 
   end
 end

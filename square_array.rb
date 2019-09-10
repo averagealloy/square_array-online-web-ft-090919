@@ -4,7 +4,3 @@ array.map! {|nunumb| nunumb** 2}
 
   end
 end
-
-
-
-  

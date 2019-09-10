@@ -1,5 +1,5 @@
 def square_array(array)
   # your code here
-array.map! {|array| a** 2}
+array.map! {|array| array** 2}
   end
 end

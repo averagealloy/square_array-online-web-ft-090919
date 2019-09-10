@@ -3,3 +3,5 @@ def square_array(array)
 array.map! {|nunumb| nunumb** 2}
   end
 end
+
+end

@@ -5,3 +5,4 @@ array.each do |array|
   end
 
 end
+  square_array(array)
